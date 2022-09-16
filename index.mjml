@@ -25,7 +25,7 @@
     <mj-section background-color="#E73B2B" padding-bottom="0px" padding-top="10px">
       <mj-column width="500px">
         <mj-text align="center" mj-class="canaltext" font-size="30px" font-weight="bold" padding-left="25px" padding-right="25px">
-          <p>NOS MEILLEURES VENTE</p>
+          <p>NOS MEILLEURES VENTES</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -59,7 +59,7 @@
       <mj-column vertical-align="middle">
         <mj-spacer height="50px"></mj-spacer>
         <mj-text align="center" mj-class="canaltext" font-size="16px">
-          <p>Découvrez notre nouvelle gamme PRIMALe, aliment haute digestibilité pour chiens adultes.</p>
+          <p>Découvrez notre nouvelle gamme PRIMAL, aliment haute digestibilité pour chiens adultes.</p>
         </mj-text>
         <mj-spacer height="15px"></mj-spacer>
         <mj-button background-color="#E73B2B" color="#fff" border-radius="20px" href="https://www.canaldog.com/36-primal" padding-bottom="10px" padding-top="0px">Découvrir</mj-button>
