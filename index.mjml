@@ -1,0 +1,108 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Nunito" href="https://fonts.googleapis.com/css2?family=Nunito"/>
+    <mj-attributes>
+      <mj-class name="canalmenu" font-family="Nunito" color="#212121"/>
+    </mj-attributes>
+    <mj-attributes>
+      <mj-class name="canaltext" font-family="Nunito" color="#fff"/>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section background-color="#ffffff" direction="ltr">
+      <mj-column width="25%" vertical-align="middle">
+        <mj-image href="https://www.canaldog.com/" src="https://www.canaldog.com/themes/pos_lavoro7/img/logo-canaldog-square.jpg" alt="Canaldog logo" align="center" padding="10px 10px 5px 10px" width="75px"></mj-image>
+      </mj-column>
+      <mj-column width="75%" vertical-align="middle">
+        <mj-navbar base-url="https://www.canaldog.com/" hamburger="hamburger" ico-color="#212121" ico-open="=" ico-close="×" ico-font-size="35px" ico-font-family="Nunito">
+          <mj-navbar-link href="/9-croquettes" mj-class="canalmenu">Chiens</mj-navbar-link>
+          <mj-navbar-link href="/12-croquettes" mj-class="canalmenu">Chats</mj-navbar-link>
+          <mj-navbar-link href="/magasins-canaldog/nos-magasins-canaldog" mj-class="canalmenu">Nos boutiques</mj-navbar-link>
+          <mj-navbar-link href="/magasins-canaldog/nos-magasins-canaldog" mj-class="canalmenu">Nos Réseaux</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#E73B2B" padding-bottom="0px" padding-top="10px">
+      <mj-column width="500px">
+        <mj-text align="center" mj-class="canaltext" font-size="30px" font-weight="bold" padding-left="25px" padding-right="25px">
+          <p>NOS MEILLEURES VENTES</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://i.postimg.cc/P5N1bJKx/Rectangle-1.png" padding-bottom="0px" padding-top="0px">
+      <mj-column width="400px">
+        <mj-carousel thumbnails="hidden" left-icon="https://i.postimg.cc/MGW0Lg8G/pattoune.png" right-icon="https://i.postimg.cc/0Nw6cfzN/pattouned.png" icon-width="50px" padding=" 0px 10px 0px 10px">
+          <mj-carousel-image src="https://www.canaldog.com/687-large_default/primal-adulte-15kg.jpg" alt="Croquettes Adulte Poulet" href="https://www.canaldog.com/croquettes/64-primal-adulte-15kg.html"/>
+          <mj-carousel-image src="https://i.postimg.cc/qMcFKXm8/thon-saumon-70g-removebg-preview.png" alt="Paté Saumon" href="https://www.canaldog.com/chats/108-thon-saumon-70g.html"/>
+          <mj-carousel-image src="https://www.canaldog.com/178-large_default/primal-sensible-poulet-15kg.jpg" alt="Croquettes Sensible Poulet" href="https://www.canaldog.com/accueil/55-primal-sensible-poulet-15kg.html"/>
+          <mj-carousel-image src="https://i.postimg.cc/BnVBPjGT/thon-70g-removebg-preview.png" alt="Paté Thon" href="https://www.canaldog.com/chats/106-thon-70g.html"/>
+          <mj-carousel-image src="https://www.canaldog.com/182-large_default/primal-puppy-15kg.jpg" alt="Croquettes Puppy" href="https://www.canaldog.com/croquettes/57-primal-puppy-15kg.html"/>
+        </mj-carousel>
+        <!-- <mj-text align="center" mj-class="canaltext" font-size="12px">Aliment haute digestibilité pour chiens et chats adultes.</mj-text> -->
+        <mj-button background-color="#fff" color="#E73B2B" font-size="16px" align="center" padding-top="30px" padding-bottom="30px" border-radius="20px" href="https://www.canaldog.com/meilleures-ventes" padding-left="5px" padding-right="5px" padding-bottom="20px" padding-top="0px">Accéder à la boutique</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#212121" padding-bottom="0px" padding-top="0px">
+      <mj-column width="25%">
+      <mj-image src="https://www.canaldog.com/img/cms/homepage-cms/picto-livraison.png" width="50px" align="center">
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text  align="center" mj-class="canaltext" font-size="18px" padding-bottom="10px" padding-top="10px">
+          <p>LIVRAISON OFFERTE <span style="font-weight: bold;color: #E73B2B;">DÈS 39&#x20AC;</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#777777" padding-bottom="0px" padding-top="0px">
+      <mj-column vertical-align="middle">
+        <mj-image src="https://www.canaldog.com/img/blockfooterslideshow/7.jpg" alt="Dog" width="300px" padding="0px" fluid-on-mobile="true"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-spacer height="50px"></mj-spacer>
+        <mj-text align="center" mj-class="canaltext" font-size="16px">
+          <p>Découvrez notre nouvelle gamme PRIMAL, aliment haute digestibilité pour chiens adultes.</p>
+        </mj-text>
+        <mj-spacer height="15px"></mj-spacer>
+        <mj-button background-color="#E73B2B" color="#fff" border-radius="20px" href="https://www.canaldog.com/36-primal" padding-bottom="10px" padding-top="0px">Découvrir</mj-button>
+        <mj-spacer height="50px"></mj-spacer>  
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#212121" padding-bottom="0px" padding-top="0px" direction="rtl">
+      <mj-column vertical-align="middle">
+        <mj-image src="https://www.canaldog.com/img/blockfooterslideshow/2.jpg" alt="Cat" width="300px" padding="0px" fluid-on-mobile="true"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-spacer height="50px"></mj-spacer>
+        <mj-text align="center" mj-class="canaltext" font-size="16px">
+          <p>Découvrez également notre nouvelle gamme pour chats.</p>
+        </mj-text>
+        <mj-spacer height="15px"></mj-spacer>
+        <mj-button background-color="#E73B2B" color="#fff" border-radius="20px" href="https://www.canaldog.com/12-croquettes" padding-bottom="10px" padding-top="0px">Découvrir</mj-button>
+        <mj-spacer height="50px"></mj-spacer>      
+      </mj-column>
+    </mj-section>
+    <mj-hero background-color="#E73B2B" mode="fixed-height" height="469px" background-width="600px" background-height="469px" background-url="https://www.canaldog.com/themes/pos_lavoro7/img/bg-reassurances.png" padding-bottom="0px" padding-top="20px">
+        <mj-text align="center" mj-class="canaltext" font-size="12px" line-height="20px">
+          <p>Si vous ne souhaitez plus recevoir d’emails de la part de CanalDog,
+          <br>vous pouvez vous désabonner en <a href="https://mjml.io" style="color: inherit;">cliquant ici</a>.
+        </mj-text>
+        <mj-text align="center" mj-class="canaltext" font-size="12px" line-height="20px">
+          <p>Pour vous assurer de recevoir notre newsletter, nous vous recommandons d'ajouter l'adresse <a href="https://mjml.io" style="color: inherit;">info@canaldog.fr</a> à vos contacts.</p>
+        </mj-text>
+        <mj-spacer height="10px"/>
+        <mj-text align="center" mj-class="canaltext" font-size="12px">
+          <p><b>INFORMATIONS PRATIQUES</b></p>
+          <p>Adresse : Canaldog, 22 rue Mouillard 69009 LYON</p>
+          <p>Appelez-nous au : 04 72 85 95 95</p>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text align="center" mj-class="canaltext" font-size="12px">
+          <p>COPYRIGHT ©CANALDOG. Tous droits réservés.</p>
+        </mj-text>
+      <mj-social>
+          <mj-social-element name="facebook" background-color="#E73B2B" href="[[SHORT_PERMALINK]]"></mj-social-element>
+          <mj-social-element name="instagram" background-color="#E73B2B" href="[[SHORT_PERMALINK]]"></mj-social-element>
+          <mj-social-element name="linkedin" background-color="#E73B2B" href="[[SHORT_PERMALINK]]"></mj-social-element>
+      </mj-social>
+    </mj-hero>
+  </mj-body>
+</mjml>
