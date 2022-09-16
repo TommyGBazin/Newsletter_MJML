@@ -25,7 +25,7 @@
     <mj-section background-color="#E73B2B" padding-bottom="0px" padding-top="10px">
       <mj-column width="500px">
         <mj-text align="center" mj-class="canaltext" font-size="30px" font-weight="bold" padding-left="25px" padding-right="25px">
-          <p>NOS MEILLEURES VENTES</p>
+          <p>NOS MEILLEURES VENTE</p>
         </mj-text>
       </mj-column>
     </mj-section>
